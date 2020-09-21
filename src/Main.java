@@ -35,9 +35,7 @@ public class Main {
 
 //               Заполняем наш лист, значениями интового массива из первого задания
         list = arrList.arrInList(arr);                              */
-.
-.
-.
+
 
         Apple apple1 = new Apple();
         Apple apple2 = new Apple();
